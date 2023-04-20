@@ -111,4 +111,7 @@ Criaremos grande parte das funcionalidades e regras de negócio da nossa aplica�
 
 Nesse capítulo vamos concluir as funcionalidades da nossa aplicação, aprender como utilizar refresh_token da nossa aplicação e como enviar e-mail, utilizando a biblioteca nodemailer.
 
-## 💻 Sobre o capítulo VI - Regras de negócios, Consumindo APIs externas.
+## 💻 Sobre o capítulo VI - Deply, Serverless.
+
+Nesse capítulo vamos aprender como fazer o deploy da nossa aplicação em produção. utilizando CI/CD para automatizar o deploy.
+Nesse capítulo vamos aprender o que é Serverless e vamos criar uma aplicação utilizando Serverless. Vamos ver também os conceitos por trás da arquitetura de microsserviços e como tem sido utilizado no mercado.
