@@ -1,4 +1,13 @@
-# Serverless - AWS Node.js Typescript
+<p align="center">
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=Concluded&color=blue&style=flat"/>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rafa-KozAnd/Ignite_Node.js_Activity_04">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/top/Rafa-KozAnd/Ignite_Node.js_Activity_04">
+  <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Rafa-KozAnd/Ignite_Node.js_Activity_04">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Rafa-KozAnd/Ignite_Node.js_Activity_04">
+  <img alt="GitHub language count" src="https://img.shields.io/github/license/Rafa-KozAnd/Ignite_Node.js_Activity_04">
+</p>
+
+# Ignite_Node.js_Activity_04
 
 This project has been generated using the `aws-nodejs-typescript` template from the [Serverless framework](https://www.serverless.com/).
 
@@ -93,3 +102,13 @@ The project code base is mainly located within the `src` folder. This folder is 
 ### Advanced usage
 
 Any tsconfig.json can be used, but if you do, set the environment variable `TS_NODE_CONFIG` for building the application, eg `TS_NODE_CONFIG=./tsconfig.app.json npx serverless webpack`
+
+## 💻 Sobre o capítulo IV - Testes e regras de negócio.
+
+Criaremos grande parte das funcionalidades e regras de negócio da nossa aplicação utilizando testes automatizados com Jest e supertest, criando a documentação completa das funcionalidades com Swagger.
+
+## 💻 Sobre o capítulo V - Trabalhando com refresh_token e e-mail.
+
+Nesse capítulo vamos concluir as funcionalidades da nossa aplicação, aprender como utilizar refresh_token da nossa aplicação e como enviar e-mail, utilizando a biblioteca nodemailer.
+
+## 💻 Sobre o capítulo VI - Regras de negócios, Consumindo APIs externas.
